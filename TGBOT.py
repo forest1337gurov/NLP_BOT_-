@@ -33,7 +33,7 @@ import jsons
 
 
 
-API_TOKEN = '7969493902:AAHr9kMCEr__zqYWkQ6xtVbxSYEnd79byCQ'
+API_TOKEN = ''
 bot = telebot.TeleBot(API_TOKEN)
 
 user_context: Dict[int, List[Dict[str, str]]] = {}
